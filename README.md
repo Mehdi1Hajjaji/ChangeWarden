@@ -1,6 +1,6 @@
 # ChangeWarden
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/mehdi1hajjaji-changewarden-5cwrqm?v=08aa107135e56e9ae45d70134f64ae04)](https://m8ven.ai/mcp/mehdi1hajjaji-changewarden-5cwrqm?s=readme)
+[![M8ven Verified](https://m8ven.ai/badge/mcp/mehdi1hajjaji/changewarden?variant=verified)](https://m8ven.ai/mcp/mehdi1hajjaji/changewarden?s=readme)
 
 **Governed GitHub changes for AI coding agents.**
 
