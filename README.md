@@ -1,5 +1,7 @@
 # ChangeWarden
 
+[![M8ven Verified](https://m8ven.ai/badge/mcp/mehdi1hajjaji/changewarden?variant=verified)](https://m8ven.ai/mcp/mehdi1hajjaji/changewarden?s=readme)
+
 **Governed GitHub changes for AI coding agents.**
 
 ChangeWarden is a narrow execution boundary for Codex, Claude, Cursor, and custom coding agents. An Agent requests one typed GitHub change; ChangeWarden applies a default-deny policy, obtains an independent human decision when required, executes with a GitHub App credential that never enters the Agent, and records a receipt bound to GitHub's actual response.
